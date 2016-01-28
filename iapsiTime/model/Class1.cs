@@ -9,5 +9,6 @@ namespace model
     public class Student
     {
         private string pedro;
+        private string quaresma;
     }
 }
