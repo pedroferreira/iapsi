@@ -11,5 +11,6 @@ namespace model
         private string pedro;
         private string quaresma;
         private int saul;
+        private int luis;
     }
 }
